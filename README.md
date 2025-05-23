@@ -4,6 +4,13 @@
   <img src="img/jogoNumeroSecretoGif.gif" alt="Screenshot do Jogo do Número Secreto" width="600">
 </p>
 
+## 🚀 Jogue Agora!
+
+Experimente o Jogo do Número Secreto em tempo real clicando no link abaixo:
+
+👉 **[Acessar o Jogo do Número Secreto](https://jogo-numero-secreto-tau-sable.vercel.app/)** 👈
+
+---
 ## ✨ Sobre o Projeto
 
 Bem-vindo ao **Jogo do Número Secreto**! 
