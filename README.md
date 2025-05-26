@@ -31,9 +31,14 @@ Desenvolvi este projeto com o propósito de aprimorar e praticar diversas habili
 
 ## 🚀 Tecnologias Utilizadas
 
+
 * **HTML5:** Estrutura semântica da página.
+    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * **CSS3:** Estilização e responsividade.
+    [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * **JavaScript (ES6+):** Lógica do jogo e interatividade.
+    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ## 🕹️ Como Jogar
 
